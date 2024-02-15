@@ -13,6 +13,7 @@ faker = "*"
 flask-login = "*"
 flask-cors = "*"
 requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 
